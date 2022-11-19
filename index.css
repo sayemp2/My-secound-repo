@@ -1,0 +1,10 @@
+.vlog{
+    background-color: cyan;
+    border: solid 15px darkslategrey;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 36px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
